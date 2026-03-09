@@ -1,3 +1,2 @@
-# lnd-robberires 
-
-# simple script based on npc robberies with included ox skill check
+# ls-robberires 
+# A simple script for robbing citizens of random items and notifying the police with skill check
