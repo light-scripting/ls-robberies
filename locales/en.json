@@ -1,0 +1,8 @@
+{
+    "rob-npc" : "Okradnij obywatela",
+    "robbery-failed" : "Nie udało ci się okraść obywatela",
+    "npc-already-robbed" : "Ten obywatel został już okradziony",
+    "cant-carry-item" : "Nie możesz nieść już więcej",
+    "npc-calling-police" : "Obywatel wezwał policję",
+    "empty-pockets" : "Obywatel nie miał nic wartościowego"
+}
